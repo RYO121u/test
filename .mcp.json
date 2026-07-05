@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "replicate": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "replicate-mcp"
+      ]
+    }
+  }
+}
